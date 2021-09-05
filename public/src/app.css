@@ -1,0 +1,13 @@
+.container {
+    max-width: 1000px;
+    font-size: 16px;
+}
+
+.container__table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.container__table tr:nth-child(even) {
+    background: #EAEAEA;
+}
